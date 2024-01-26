@@ -1,6 +1,11 @@
-const express = require("express");
-// Import and require mysql2
-const mysql = require("mysql2");
+const listInquirer = require("./lib/inquirer");
+const db = require('./db/db');
 
-const PORT = process.env.PORT || 3001;
-const app = express();
+db.connect(err => {
+    if (err)
+    console.error("Couldn't connect to Database.", err);
+    console.log('Connected to Tracker Database.');
+    listInquirer();
+});
+
+
