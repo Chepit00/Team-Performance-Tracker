@@ -16,6 +16,9 @@
 
 This repo will allow a business owner to view and manage the departments, roles, & employees. It'll be an easy way to organize and plan a business.
 
+You can view a walkthrough video with the link below here!
+https://drive.google.com/file/d/1sUe00ryMpJKjux_TWMzpyH2JUFXNKUgX/view
+
 ## Installation
 
 To install you can clone this repo.
