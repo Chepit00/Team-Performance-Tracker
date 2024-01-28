@@ -19,6 +19,15 @@ This repo will allow a business owner to view and manage the departments, roles,
 You can view a walkthrough video with the link below here! 
 https://drive.google.com/file/d/1sUe00ryMpJKjux_TWMzpyH2JUFXNKUgX/view
 
+![Screenshot 2024-01-28 094627](https://github.com/Chepit00/Team-Performance-Tracker/assets/144062349/f0f168e6-8456-4136-90f9-c1b3c63b36e7)
+
+
+
+
+![Screenshot 2024-01-28 094648](https://github.com/Chepit00/Team-Performance-Tracker/assets/144062349/53dc3fdc-b49a-4db3-afa3-edef64830b6d)
+
+
+
 ## Installation
 
 To install you can clone this repo.
